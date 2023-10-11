@@ -15,7 +15,7 @@ def textimage(prompttoimg):
     if (r.ok):
       # r.content contains the bytes of the returned image
     #   print(r.content)
-        filename = "C:\\Users\\bhavy\\OneDrive\\Desktop\\project 2.o\\Generated images\\" + prompttoimg + ".jpg"
+        filename = "Generated images\\" + prompttoimg + ".jpg"
         with open(filename,'wb') as f:
            f.write(r.content)
 
