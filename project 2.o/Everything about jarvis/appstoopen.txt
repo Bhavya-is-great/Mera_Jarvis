@@ -1,0 +1,14 @@
+calculator
+camera
+clock
+command prompt
+videos
+gllery
+new tab(chrome)
+instagram
+notepad
+screen recorder
+whatsapp
+vs code
+telegram
+youtube

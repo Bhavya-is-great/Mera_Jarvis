@@ -1,0 +1,8 @@
+tell me nasa news 
+tell me todays news
+write essays in ternimal or notepad whereever you want(speak "write a essay on topic")
+play a video directly on youtube (say play video on youtube)
+text to image generation
+a in built chatgpt
+
+** For futher details say what can you do**
