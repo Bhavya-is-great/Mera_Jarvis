@@ -31,6 +31,8 @@ pyautogui.click(x=1334,y=20)
 change clipdrop api with your api in try folder in texttoimage.py
 To get it visit tot the [link](https://clipdrop.co/apis) and generate it 
 
+#### Sorry But i am unable to give requirement.txt because my laptop is too old and is unable to create it but you can install package from seeing which packages are imported in jarvis.py 🙏🙏🙏🙏
+
 # All the other information regarding jarvis you will get in the everything about jarvis floder in that there is a requirement.txt to be installed before using jarvis 
 
 # ENJOY 😎 And Plz give me a star thanks for visiting 😁😁😁😎😎
